@@ -31,7 +31,10 @@ Correlation Analysis: Determine the relationship between response times and sati
 Regression Analysis: Explore how response time predicts satisfaction.
 
 Hypothesis Testing: Test for significant correlations between response times and public satisfaction.
+
 Visualization: Scatter plots and heat maps to visualize data points and relationships.
+
 Reporting: Generate a report with insights and strategic recommendations for city management.
-Dataset Details
+
+# Dataset Details
 The project utilizes data from NYC 311 which includes various attributes such as complaint type, creation and closure dates, involved agency, geographical coordinates, and more. This dataset provides a comprehensive overview of non-emergency requests processed by the city.
