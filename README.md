@@ -21,10 +21,15 @@ Analyze the correlation between response times and public satisfaction to propos
 
 # Methodology:
 Data Collection: Include public satisfaction data from surveys or social media analyses post-resolution.
+
 Data Integration and Exploration: Merge satisfaction ratings with the 311 dataset, exploring relationships between response times and satisfaction.
+
 Statistical Analysis:
+
 Correlation Analysis: Determine the relationship between response times and satisfaction ratings.
+
 Regression Analysis: Explore how response time predicts satisfaction.
+
 Hypothesis Testing: Test for significant correlations between response times and public satisfaction.
 Visualization: Scatter plots and heat maps to visualize data points and relationships.
 Reporting: Generate a report with insights and strategic recommendations for city management.
